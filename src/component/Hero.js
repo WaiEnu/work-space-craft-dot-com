@@ -5,7 +5,7 @@ function Hero() {
   return (
 
 <div class="bg-indigo-900 relative overflow-hidden h-screen">
-  <img src={Top} class="absolute h-full w-full object-cover"/>
+  <img src={Top} class="absolute h-full w-full object-cover" alt="top"/>
   <div class="inset-0 bg-black opacity-25 absolute">
   </div>
   <header class="absolute top-0 left-0 right-0 z-20">

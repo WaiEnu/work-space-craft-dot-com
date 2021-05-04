@@ -1,36 +1,99 @@
 import React from 'react';
 
 function Timeline() {
+  const right = {
+    right: '50%'
+  };
+  const left = {
+    left: '50%'
+  };
   return (
 
-<div class="bg-blue-300 relative overflow-hidden h-full">
-  <div class="inset-0 bg-white opacity-25 absolute">
-  </div>
-  <div class="w-full mx-auto max-w-xl rounded-lg bg-white dark:bg-gray-800 shadow-lg px-5 pt-5 pb-10 my-12 text-gray-800 dark:text-gray-50">
-      <div class="w-full">
-        <p class="text-md text-indigo-500 font-bold text-left">
-          【略歴】
-        </p>
-        <p class="text-sm text-gray-900 dark:text-gray-100 text-left px-4 mb-4">
-        <br/>2014/3 青山学院大学理工学部化学・生命科学科卒業
-          <br/>&nbsp;&nbsp;◎遺伝子シミュレーション(VBAマクロ)
-          <br/>2014/4〜2020/6 システムエンジニア
-          <br/>&nbsp;&nbsp;◎経理システム改修・保守(Java)
-          <br/>&nbsp;&nbsp;◎帳票管理システム保守(C#)
-          <br/>&nbsp;&nbsp;◎企業Webサイト改修・作成(HTML・CSS・Javascript)
-          <br/>&nbsp;&nbsp;◎Wordpressカスタマイズ,テーマ作成,プラグイン開発(PHP)
-          <br/>2019/10〜2020/4 G's Academy Lab8期
-          <br/>2020/7〜2021/4 Webプログラマー(Vue/Laravel)
-          <br/>&nbsp;&nbsp;◎薬局向けWebアプリケーション開発(laravel/Vue)
-          <br/>&nbsp;&nbsp;◎業務用PCのRPAデスクトップアプリケーション開発(electrons/python) 
-          <br/>2021/4〜 Coming Soon...?
-        </p>
+<div class="relative flex overflow-hidden bg-white h-full">
+  <div class="container mx-auto w-full relative z-10 flex flex-col items-center p-0 mb-24">
+
+    <div class="container mx-auto w-full h-full">
+      <div class="relative wrap overflow-hidden p-10 h-full">
+        <div class="border-2-2 border-indigo-400 absolute h-full border"
+          style={right}></div>
+        <div class="border-2-2 border-indigo-400 absolute h-full border"
+          style={left}></div>
+        <div class="mb-8 flex justify-between flex-row-reverse items-center w-full left-timeline">
+          <div class="order-1 w-5/12"></div>
+          <div class="order-1 w-5/12 px-1 py-4 text-right">
+            <p class="mb-3 text-base text-indigo-800">Mar, 2014</p>
+            <h4 class="mb-3 font-bold text-2xl">青山学院理工学部化学・生命科学科卒業</h4>
+            <ul class="m-0 p-0">
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+                【卒業研究】</li>
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+                ◎遺伝子シミュレーション(VBAマクロ)</li>
+            </ul>
+          </div>
+        </div>
+        <div class="mb-8 flex justify-between items-center w-full right-timeline">
+          <div class="order-1 w-5/12"></div>
+          <div class="order-1  w-5/12 px-1 py-4 text-left">
+            <p class="mb-3 text-base text-indigo-800">Apr, 2014 - Jun, 2020</p>
+            <h4 class="mb-3 font-bold text-2xl">株式会社ビット</h4>
+            <p class="text-base leading-snug text-gray-50 text-opacity-100">
+              システムエンジニア
+            </p>
+            <ul class="m-0 p-0">
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+                【開発実績】</li>
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+                  ◎経理システム改修・保守(Java)</li>
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+                  ◎帳票管理システム保守(C#)</li>
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+                  ◎企業Webサイト改修・作成(HTML・CSS・Javascript)</li>
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+                  ◎Wordpressカスタマイズ,テーマ作成,プラグイン開発(PHP)</li>
+            </ul>
+          </div>
+        </div>
+        <div class="mb-8 flex justify-between flex-row-reverse items-center w-full left-timeline">
+          <div class="order-1 w-5/12"></div>
+          <div class="order-1 w-5/12 px-1 py-4 text-right">
+            <p class="mb-3 text-base text-indigo-800"> Oct, 2019 - Apr, 2020</p>
+            <h4 class="mb-3 font-bold text-2xl">G's Academy Lab8期</h4>
+            
+            <ul class="m-0 p-0">
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+                【卒業製作】</li>
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+                ◎<a href="https://troublecentral.herokuapp.com/about" rel="noopener noreferrer" target="_blank" class="border-b-2 border-blue-500">DNA Playground</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="mb-8 flex justify-between items-center w-full right-timeline">
+          <div class="order-1 w-5/12"></div>
+
+          <div class="order-1  w-5/12 px-1 py-4">
+            <p class="mb-3 text-base text-indigo-800">Jul, 2020 - Apr, 2021</p>
+            <h4 class="mb-3 font-bold text-2xl">株式会社プレカル</h4>
+            <p class="text-base leading-snug text-gray-50 text-opacity-100">
+              Webプログラマー(laravel/Vue)
+            </p>
+            <ul class="m-0 p-0">
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+                【開発実績】</li>
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+              ◎薬局向けWebアプリケーション開発(laravel/Vue)</li>
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+                  ◎業務用PCのRPAデスクトップアプリケーション開発(electrons/python)</li>
+            </ul>
+          </div>
+        </div>
       </div>
     </div>
 
+  </div>
 </div>
 
   );
-}
+};
 
 export default Timeline;

@@ -6,8 +6,8 @@ function Skills() {
 <div class="bg-blue-50 relative overflow-hidden h-screen">
   <div class="inset-0 bg-white opacity-50 absolute">
   </div>
-  <div class="mb-16 text-center">
-    <h1 class="text-1xl text-base text-blue-600 font-semibold tracking-wide uppercase">
+  <div class="mb-16 text-center z-10">
+    <h1 class="text-1xl text-base text-indigo-900 font-semibold tracking-wide uppercase">
       skills
     </h1>
   </div>
@@ -74,7 +74,7 @@ function Skills() {
                   Environment&amp;Others
                 </h5>
                 <p class="mt-2 text-base leading-6 text-gray-500 dark:text-gray-300">
-                  docker/&nbsp;gitHub/&nbsp;oracle/&nbsp;mySQL
+                  MAMP/&nbsp;docker/&nbsp;gitHub/&nbsp;oracle/&nbsp;mySQL
                 </p>
               </div>
             </div>
