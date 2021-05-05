@@ -14,7 +14,7 @@ function Works() {
   <div class="container mx-auto z-20 px-6 p-6 bg-white dark:bg-gray-800">
     <div class="mb-16 text-center">
       <h2 class="text-1xl text-base text-blue-600 font-semibold tracking-wide uppercase">
-        Portfolio
+        Works
       </h2>
     </div>
     <div class="flex flex-wrap my-12 dark:text-white">

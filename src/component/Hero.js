@@ -4,7 +4,7 @@ import Top from '../asset/top.svg';
 function Hero() {
   return (
 
-<div class="bg-indigo-900 relative overflow-hidden h-screen">
+<div class="bg-indigo-900 relative overflow-hidden h-screen"> 
   <img src={Top} class="absolute h-full w-full object-cover" alt="top"/>
   <div class="inset-0 bg-black opacity-25 absolute">
   </div>
@@ -26,25 +26,27 @@ function Hero() {
             About
           </a>
           <a class="text-lg uppercase mx-3 text-white cursor-pointer hover:text-gray-300">
-            Skills
-          </a>
-          <a class="text-lg uppercase mx-3 text-white cursor-pointer hover:text-gray-300">
-            Portfolio
-          </a>
+                  Skill
+            </a>
+            <a class="text-lg uppercase mx-3 text-white cursor-pointer hover:text-gray-300">
+                Works
+            </a>
+          </div>
         </div>
+      </nav>
+    </header>
+    <div class="container rounded-lg mx-auto w-4/5 relative z-10 flex items-center py-16 my-24 md:my-32">
+      <div class="w-full flex flex-col items-end justify-between relative z-10">
+        <p class="w-full flex flex-row flex-wrap justify-end font-extrabold text-6xl text-center md:text-8xl text-white break-words">
+          <span class="inline-block">Space</span><span class="inline-block">Craft</span>
+        </p>
+        <p class="w-full flex flex-col items-end font-extrabold text-6xl text-center md:text-8xl text-white">
+          .Wroks
+        </p>
       </div>
-    </nav>
-  </header>
-  <div class="container mx-auto px-6 md:px-12 relative z-10 flex flex-row-reverse items-center py-32 xl:py-40">
-    <div class="lg:w-3/5 xl:w-2/5 flex flex-col items-start relative z-10">
-      <h1 class="font-bold text-6xl sm:text-7xl text-white leading-tight mt-4">
-        SpaceCraft
-        <br/>
-        .Wroks
-      </h1>
     </div>
-  </div>
 </div>
+
   );
 }
 
