@@ -35,7 +35,7 @@ function Timeline() {
           <div class="order-1 w-5/12"></div>
           <div class="order-1  w-5/12 px-1 py-4 text-left">
             <p class="mb-3 text-base text-indigo-800">Apr, 2014 - Jun, 2020</p>
-            <h4 class="mb-3 font-bold text-2xl">株式会社ビット</h4>
+            <h4 class="mb-3 font-bold text-2xl">システムインテグレーター勤務</h4>
             <p class="text-base leading-snug text-gray-50 text-opacity-100">
               システムエンジニア
             </p>
@@ -73,13 +73,15 @@ function Timeline() {
 
           <div class="order-1  w-5/12 px-1 py-4">
             <p class="mb-3 text-base text-indigo-800">Jul, 2020 - Apr, 2021</p>
-            <h4 class="mb-3 font-bold text-2xl">株式会社プレカル</h4>
+            <h4 class="mb-3 font-bold text-2xl">医療系スタートアップ勤務</h4>
             <p class="text-base leading-snug text-gray-50 text-opacity-100">
               Webプログラマー(laravel/Vue)
             </p>
             <ul class="m-0 p-0">
               <li class="text-base leading-snug text-gray-50 text-opacity-100">
                 【開発実績】</li>
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+              プレカル</li>
               <li class="text-base leading-snug text-gray-50 text-opacity-100">
               ◎薬局向けWebアプリケーション開発(laravel/Vue)</li>
               <li class="text-base leading-snug text-gray-50 text-opacity-100">

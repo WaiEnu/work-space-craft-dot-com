@@ -1,5 +1,5 @@
 import React from 'react';
-import Icon from '../asset/person1.jpeg';
+import Icon from '../asset/person1.jpg';
 import Timeline from './Timeline';
 
 function About() {
