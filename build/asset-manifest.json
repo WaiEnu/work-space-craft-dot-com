@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/WaiEnu/work-space-craft-dot-com/static/css/main.65c7a1ab.chunk.css",
-    "main.js": "/WaiEnu/work-space-craft-dot-com/static/js/main.80687a4e.chunk.js",
-    "main.js.map": "/WaiEnu/work-space-craft-dot-com/static/js/main.80687a4e.chunk.js.map",
-    "runtime-main.js": "/WaiEnu/work-space-craft-dot-com/static/js/runtime-main.f72657a2.js",
-    "runtime-main.js.map": "/WaiEnu/work-space-craft-dot-com/static/js/runtime-main.f72657a2.js.map",
-    "static/js/2.38dca050.chunk.js": "/WaiEnu/work-space-craft-dot-com/static/js/2.38dca050.chunk.js",
-    "static/js/2.38dca050.chunk.js.map": "/WaiEnu/work-space-craft-dot-com/static/js/2.38dca050.chunk.js.map",
-    "index.html": "/WaiEnu/work-space-craft-dot-com/index.html",
-    "precache-manifest.003ffba6dc23cc92e6356e43322ffe59.js": "/WaiEnu/work-space-craft-dot-com/precache-manifest.003ffba6dc23cc92e6356e43322ffe59.js",
-    "service-worker.js": "/WaiEnu/work-space-craft-dot-com/service-worker.js",
-    "static/css/main.65c7a1ab.chunk.css.map": "/WaiEnu/work-space-craft-dot-com/static/css/main.65c7a1ab.chunk.css.map",
-    "static/js/2.38dca050.chunk.js.LICENSE.txt": "/WaiEnu/work-space-craft-dot-com/static/js/2.38dca050.chunk.js.LICENSE.txt",
-    "static/media/2019portfolio.png": "/WaiEnu/work-space-craft-dot-com/static/media/2019portfolio.187ca2e9.png",
-    "static/media/booksapi.png": "/WaiEnu/work-space-craft-dot-com/static/media/booksapi.833bf888.png",
-    "static/media/kerokeroweather.png": "/WaiEnu/work-space-craft-dot-com/static/media/kerokeroweather.3ceae980.png",
-    "static/media/p5co.png": "/WaiEnu/work-space-craft-dot-com/static/media/p5co.f27757f2.png",
-    "static/media/person1.jpg": "/WaiEnu/work-space-craft-dot-com/static/media/person1.18561625.jpg",
-    "static/media/priodictable.png": "/WaiEnu/work-space-craft-dot-com/static/media/priodictable.732dbada.png",
-    "static/media/reactsample.png": "/WaiEnu/work-space-craft-dot-com/static/media/reactsample.97f8b6a1.png",
-    "static/media/top.svg": "/WaiEnu/work-space-craft-dot-com/static/media/top.df82a9c8.svg"
+    "main.css": "/work-space-craft-dot-com/static/css/main.65c7a1ab.chunk.css",
+    "main.js": "/work-space-craft-dot-com/static/js/main.bb25bdaa.chunk.js",
+    "main.js.map": "/work-space-craft-dot-com/static/js/main.bb25bdaa.chunk.js.map",
+    "runtime-main.js": "/work-space-craft-dot-com/static/js/runtime-main.62b59cea.js",
+    "runtime-main.js.map": "/work-space-craft-dot-com/static/js/runtime-main.62b59cea.js.map",
+    "static/js/2.38dca050.chunk.js": "/work-space-craft-dot-com/static/js/2.38dca050.chunk.js",
+    "static/js/2.38dca050.chunk.js.map": "/work-space-craft-dot-com/static/js/2.38dca050.chunk.js.map",
+    "index.html": "/work-space-craft-dot-com/index.html",
+    "precache-manifest.a8d774e1f05e2a0cc2892c457f874930.js": "/work-space-craft-dot-com/precache-manifest.a8d774e1f05e2a0cc2892c457f874930.js",
+    "service-worker.js": "/work-space-craft-dot-com/service-worker.js",
+    "static/css/main.65c7a1ab.chunk.css.map": "/work-space-craft-dot-com/static/css/main.65c7a1ab.chunk.css.map",
+    "static/js/2.38dca050.chunk.js.LICENSE.txt": "/work-space-craft-dot-com/static/js/2.38dca050.chunk.js.LICENSE.txt",
+    "static/media/2019portfolio.png": "/work-space-craft-dot-com/static/media/2019portfolio.187ca2e9.png",
+    "static/media/booksapi.png": "/work-space-craft-dot-com/static/media/booksapi.833bf888.png",
+    "static/media/kerokeroweather.png": "/work-space-craft-dot-com/static/media/kerokeroweather.3ceae980.png",
+    "static/media/p5co.png": "/work-space-craft-dot-com/static/media/p5co.f27757f2.png",
+    "static/media/person1.jpg": "/work-space-craft-dot-com/static/media/person1.18561625.jpg",
+    "static/media/priodictable.png": "/work-space-craft-dot-com/static/media/priodictable.732dbada.png",
+    "static/media/reactsample.png": "/work-space-craft-dot-com/static/media/reactsample.97f8b6a1.png",
+    "static/media/top.svg": "/work-space-craft-dot-com/static/media/top.df82a9c8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f72657a2.js",
+    "static/js/runtime-main.62b59cea.js",
     "static/js/2.38dca050.chunk.js",
     "static/css/main.65c7a1ab.chunk.css",
-    "static/js/main.80687a4e.chunk.js"
+    "static/js/main.bb25bdaa.chunk.js"
   ]
 }
