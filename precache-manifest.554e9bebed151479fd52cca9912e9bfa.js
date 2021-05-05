@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "254552375e794b46a4821916266b4eb8",
+    "revision": "a856f8265c30de0a92099570fb108a9b",
     "url": "/work-space-craft-dot-com/index.html"
   },
   {
-    "revision": "c34797e86cb5fa0a6652",
-    "url": "/work-space-craft-dot-com/static/css/main.65c7a1ab.chunk.css"
+    "revision": "d98273c34b69d58ced67",
+    "url": "/work-space-craft-dot-com/static/css/main.f8488e03.chunk.css"
   },
   {
     "revision": "ad6c134b357161151426",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/work-space-craft-dot-com/static/js/2.38dca050.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c34797e86cb5fa0a6652",
-    "url": "/work-space-craft-dot-com/static/js/main.bb25bdaa.chunk.js"
+    "revision": "d98273c34b69d58ced67",
+    "url": "/work-space-craft-dot-com/static/js/main.4cf68e77.chunk.js"
   },
   {
     "revision": "cf426a582dea98e937e5",
