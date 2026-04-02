@@ -15,7 +15,7 @@ function About() {
       </div>
       <div class="w-full mb-8">
         <p class="text-md text-indigo-500 font-bold text-center">
-          内藤 由希子
+
         </p>
         <p class="text-xs text-gray-500 dark:text-gray-300 text-center">
           Web Programmer
