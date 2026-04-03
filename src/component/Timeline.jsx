@@ -81,11 +81,46 @@ function Timeline() {
               <li class="text-base leading-snug text-gray-50 text-opacity-100">
                 【開発実績】</li>
               <li class="text-base leading-snug text-gray-50 text-opacity-100">
-              プレカル</li>
+              医療系スタートアップ</li>
               <li class="text-base leading-snug text-gray-50 text-opacity-100">
               ◎薬局向けWebアプリケーション開発(laravel/Vue)</li>
               <li class="text-base leading-snug text-gray-50 text-opacity-100">
                   ◎業務用PCのRPAデスクトップアプリケーション開発(electrons/python)</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="mb-8 flex justify-between items-center w-full right-timeline">
+          <div class="order-1 w-5/12"></div>
+
+          <div class="order-1  w-5/12 px-1 py-4">
+            <p class="mb-3 text-base text-indigo-800">jul, 2021 - Sep, 2023</p>
+            <h4 class="mb-3 font-bold text-2xl">某SIer勤務</h4>
+            <p class="text-base leading-snug text-gray-50 text-opacity-100">
+              フロントエンドエンジニア
+            </p>
+            <ul class="m-0 p-0">
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+                【開発実績】</li>
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+              SIer</li>
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+              ◎金融機関向けWebアプリケーション開発(React/typescript/node.js)</li>
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+                  セキュリティ監視ツールの検索画面UI,バックエンド開発</li>
+            </ul>
+          </div>
+
+          <div class="order-1  w-5/12 px-1 py-4">
+            <p class="mb-3 text-base text-indigo-800">Oct, 2023 - </p>
+            <h4 class="mb-3 font-bold text-2xl">システム開発会社勤務</h4>
+            <p class="text-base leading-snug text-gray-50 text-opacity-100">
+              フロントエンドエンジニア
+            </p>
+            <ul class="m-0 p-0">
+              <li class="text-base leading-snug text-gray-50 text-opacity-100">
+                【開発実績】</li>
+              <li class="text-base leading-snug text-gray-50 text-opacity-100"></li>
             </ul>
           </div>
         </div>
