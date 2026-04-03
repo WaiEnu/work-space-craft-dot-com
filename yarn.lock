@@ -384,17 +384,6 @@ atob@^2.1.2:
   resolved "https://registry.npmjs.org/atob/-/atob-2.1.2.tgz"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
-autoprefixer@^10.4.27:
-  version "10.4.27"
-  resolved "https://registry.npmjs.org/autoprefixer/-/autoprefixer-10.4.27.tgz"
-  integrity sha512-NP9APE+tO+LuJGn7/9+cohklunJsXWiaWEfV3si4Gi/XHDwVNgkwr1J3RQYFIvPy76GmJ9/bW8vyoU1LcxwKHA==
-  dependencies:
-    browserslist "^4.28.1"
-    caniuse-lite "^1.0.30001774"
-    fraction.js "^5.3.4"
-    picocolors "^1.1.1"
-    postcss-value-parser "^4.2.0"
-
 baseline-browser-mapping@^2.10.12:
   version "2.10.13"
   resolved "https://registry.npmjs.org/baseline-browser-mapping/-/baseline-browser-mapping-2.10.13.tgz"
@@ -438,7 +427,7 @@ caniuse-api@^3.0.0:
     lodash.memoize "^4.1.2"
     lodash.uniq "^4.5.0"
 
-caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001774, caniuse-lite@^1.0.30001782:
+caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001782:
   version "1.0.30001784"
   resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001784.tgz"
   integrity sha512-WU346nBTklUV9YfUl60fqRbU5ZqyXlqvo1SgigE1OAXK5bFL8LL9q1K7aap3N739l4BvNqnkm3YrGHiY9sfUQw==
@@ -822,11 +811,6 @@ find-up@^4.0.0:
   dependencies:
     locate-path "^5.0.0"
     path-exists "^4.0.0"
-
-fraction.js@^5.3.4:
-  version "5.3.4"
-  resolved "https://registry.npmjs.org/fraction.js/-/fraction.js-5.3.4.tgz"
-  integrity sha512-1X1NTtiJphryn/uLQz3whtY6jK3fTqoE3ohKs0tT+Ujr1W59oopxmoEh7Lu5p6vBaPbgoM0bzveAW4Qi5RyWDQ==
 
 fs-extra@^11.0.0, fs-extra@^11.1.1:
   version "11.3.4"
