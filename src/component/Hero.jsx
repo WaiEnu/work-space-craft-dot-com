@@ -37,7 +37,7 @@ function Hero() {
     </header>
     <div className="container rounded-lg mx-auto w-4/5 relative z-10 flex items-center py-16 my-24 md:my-32">
       <div className="w-full flex flex-col items-end justify-between relative z-10">
-        <p className="w-full flex flex-row flex-wrap justify-end font-extrabold text-6xl text-center md:text-8xl text-white break-words">
+        <p className="w-full flex flex-row flex-wrap justify-end font-extrabold text-6xl text-center md:text-8xl text-white wrap-break-word">
           <span className="inline-block">Space</span><span className="inline-block">Craft</span>
         </p>
         <p className="w-full flex flex-col items-end font-extrabold text-6xl text-center md:text-8xl text-white">
