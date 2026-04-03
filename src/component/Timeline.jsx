@@ -95,8 +95,7 @@ function Timeline() {
 
         <div className="mb-8 flex justify-between flex-row-reverse items-center w-full left-timeline">
           <div className="order-1 w-5/12"></div>
-
-          <div className="order-1  w-5/12 px-1 py-4">
+          <div className="order-1  w-5/12 px-1 py-4 text-right">
             <p className="mb-3 text-base text-indigo-800">jul, 2021 - Sep, 2023</p>
             <h4 className="mb-3 font-bold text-2xl">某SIer勤務</h4>
             <p className="text-base leading-snug text-gray-800 text-opacity-100">
